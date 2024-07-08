@@ -1,0 +1,12 @@
+body{
+    background-color: yellowgreen;
+    color: rgb(1, 97, 182);
+    
+}
+
+body header h1{
+    text-align: center;
+}
+body main > h2{
+    text-transform: uppercase;
+}
